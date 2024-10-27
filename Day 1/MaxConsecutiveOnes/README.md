@@ -46,6 +46,6 @@ public class Solution {
         return maxCount;                        // Trả về maxCount sau khi duyệt hết mảng
     }
 }
-
+```
 #Link
  [Link LeetCode]("https://leetcode.com/problems/max-consecutive-ones/submissions/1435321150")
